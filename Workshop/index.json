@@ -4,7 +4,7 @@
     "version": "1.0",
     "icon": "https://raw.githubusercontent.com/artin473/T-rexGame/refs/heads/main/Image/images.png",
     "link": "https://raw.githubusercontent.com/artin473/T-rexGame/refs/heads/main/Workshop/Pack/orginal.json",
-    "image": "[]",
+    "image": "["https://raw.githubusercontent.com/artin473/T-rexGame/refs/heads/main/Image/images.png","https://raw.githubusercontent.com/artin473/T-rexGame/refs/heads/main/Image/images.png","https://raw.githubusercontent.com/artin473/T-rexGame/refs/heads/main/Image/images.png"]",
     "type": "resource",
     "creator": "LoopTeam"
   }
