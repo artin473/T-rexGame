@@ -1,0 +1,12 @@
+{
+  "icon": "https://raw.githubusercontent.com/artin473/T-rexGame/refs/heads/main/Image/images.png",
+  "deception": "ریسوس پک اصلی بازی دایناسور ",
+ "name": "Dino Orginal",
+ "creator": "LoopTeam",
+  "resource": "default",
+  "sound_jump": "default",
+  "sound_hurt": "default",
+  "sound_nextlevel": "default",
+  "script": null,
+  "version": "1.0"
+}
