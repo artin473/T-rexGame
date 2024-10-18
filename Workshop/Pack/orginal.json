@@ -8,5 +8,6 @@
   "sound_hurt": "default",
   "sound_nextlevel": "default",
   "script": null,
-  "version": "1.0"
+  "version": "1.0",
+  "type": "resource"
 }
